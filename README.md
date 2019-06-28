@@ -8,3 +8,5 @@ Unter anderem die komplette File DatenBank in welcher die Checkpoints und die Re
 - Kollissionen geben Strafzeit
 - Zeit Rekord wird abgespeichert in einer File Datenbank
 - Checkpoint Values werden vom Server durchgegeben um Modifikationen vom Spieler zu vermeiden
+
+Skript erstellt von Daniel E.
