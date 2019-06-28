@@ -1,9 +1,10 @@
-Um den Admin bei dem die Skripte noch laufen Glücklich zu stellen, hab ich einen AntiPaste eingebaut.
+Weil wir (Das Serverteam und ich) nicht wollen das unsere Arbeit in Fremde Hände gerät, fehlen wichtige Dateien.
+Unter anderem die komplette File DatenBank in welcher die Checkpoints und die Rekorde gespeichert werden.
 
 ### Time Trials
 
-- bis zu 7 Tracks pro TimeTrial Ordner
+- Bis zu 7 Tracks pro TimeTrial Ordner
 - AntiCE (CheatEngine), Droppt Spieler wenn er eine modifikationen von Client Values feststellt.
 - Kollissionen geben Strafzeit
-- Zeit Rekord wird abgespeichert in einer File Datenbank (Dateien wegen AntiPaste entfernt)
+- Zeit Rekord wird abgespeichert in einer File Datenbank
 - Checkpoint Values werden vom Server durchgegeben um Modifikationen vom Spieler zu vermeiden
